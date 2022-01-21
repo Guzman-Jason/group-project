@@ -25,10 +25,11 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
+.Jason-style {
+    color: rgb(255, 4, 4);
     background-color: black;
     padding: 3px;
+}
 }
 
 .code-ninja-style {
